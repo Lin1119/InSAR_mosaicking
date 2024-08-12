@@ -3,6 +3,6 @@ the region and meanwhile minimising the differences between the adjacent tracks 
 
 Users are kindly requested to reference our publication: 
 
-Shen, L., Hooper, A., Elliott, J.R., & Wright, T.J. (2024). Variability in interseismic strain accumulation rate and style along the Altyn Tagh Fault. (Accepted)
+Shen, L., Hooper, A., Elliott, J.R. et al. Variability in interseismic strain accumulation rate and style along the Altyn Tagh Fault. Nat Commun 15, 6876 (2024). https://doi.org/10.1038/s41467-024-51116-z
 
 We welcome any feedback via email at lshen@ldeo.columbia.edu
